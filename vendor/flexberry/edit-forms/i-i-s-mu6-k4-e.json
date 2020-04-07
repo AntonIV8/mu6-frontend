@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "K4",
+  "name": "IISmu6K4E",
+  "className": "K4E",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu6-k4",
+      "modelProjection": "K4E"
+    }
+  ]
+}
